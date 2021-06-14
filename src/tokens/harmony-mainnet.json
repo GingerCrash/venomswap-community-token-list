@@ -95,4 +95,12 @@
     "decimals": 9,
     "logoURI": "https://github.com/freyala/Community-Tokens/blob/main/KURO_token_small.png?raw=true"
   }
+  {
+    "chainId": 1666600000,
+    "address": "0x01546f85fbb5e116b4a43fc3d1b1213d82acda95",
+    "symbol": "1MIL",
+    "name": "ONEMILLION",
+    "decimals": 18,
+    "logoURI": "https://i.imgur.com/4HDLndF.png"
+  }
 ]
